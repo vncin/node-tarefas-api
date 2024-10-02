@@ -1,0 +1,48 @@
+[
+    {
+        "titulo": "Desenvolver API para o sistema",
+        "prioridade": "Alta",
+        "data": "2024-09-15",
+        "descricao": "Desenvolver a API RESTful para o sistema de gerenciamento de projetos.",
+        "responsaveis": [
+            {"nome": "Isabela Lima"}
+        ]
+    },
+    {
+        "titulo": "Design da interface do usuário",
+        "prioridade": "Média",
+        "data": "2024-09-20",
+        "descricao": "Criar wireframes e protótipos para a nova interface do usuário.",
+        "responsaveis": [
+            {"nome": "Bruno Costa"}
+        ]
+    },
+    {
+        "titulo": "Testes de integração",
+        "prioridade": "Alta",
+        "data": "2024-09-25",
+        "descricao": "Executar testes de integração para garantir a compatibilidade entre os módulos do sistema.",
+        "responsaveis": [
+            {"nome": "Bruno Costa"}
+        ]
+    },
+    {
+        "titulo": "Documentação técnica",
+        "prioridade": "Baixa",
+        "data": "2024-09-30",
+        "descricao": "Elaborar a documentação técnica do sistema para os desenvolvedores.",
+        "responsaveis": [
+            {"nome": "Fernando Oliveira"}
+        ]
+    },
+    {
+        "titulo": "Revisão de código",
+        "prioridade": "Média",
+        "data": "2024-09-18",
+        "descricao": "Revisar o código desenvolvido pelos estagiários e sugerir melhorias.",
+        "responsaveis": [
+            {"nome": "Isabela Lima"},
+            {"nome": "Fernando Oliveira"}
+        ]
+    }
+]
